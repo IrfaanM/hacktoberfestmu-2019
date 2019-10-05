@@ -28,7 +28,7 @@ Add your name & social network links to this repository!
  - [Link 2](www.example.com) 
  - [Link 3](www.example.com)
  
- ### Alec Young Tie Yang
+### Alec Young Tie Yang
  - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
@@ -61,7 +61,7 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
 
-## Tatiana Eclair
+### Tatiana Eclair
 - [GitHub](github.com/TatianaRE34)
 
 ### Tanjana Ramsamy
