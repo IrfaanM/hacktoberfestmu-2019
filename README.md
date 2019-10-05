@@ -67,6 +67,10 @@ Add your name & social network links to this repository!
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
 
+### Anshruta D Jahal (AnshrutaOfficial)
+- [GitHub](github.com/AnshrutaOfficial)
+- [Twitter](twitter.com/anshruta_official
+
 ### Beemal Ramkalawan
 - [GitHub](https://github.com/MindScaper)
 - [Facebook](https://facebook.com/Reox21)
