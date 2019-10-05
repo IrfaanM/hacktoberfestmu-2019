@@ -23,7 +23,12 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 # Contribute
 Add your name & social network links to this repository!
 
-### Alec Young Tie Yang
+### John Doe (Example)
+ - [Link 1](www.example.com)
+ - [Link 2](www.example.com) 
+ - [Link 3](www.example.com)
+ 
+ ### Alec Young Tie Yang
  - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
@@ -48,9 +53,16 @@ Add your name & social network links to this repository!
 - [Facebook](facebook.com/sudhveer)
 - [Instagram](instragram.com/shravandwarka)
 
+### Taariq Noor Mohamed
+- [GitHub](github.com/TaariqNoor)
+- [Instagram](instagram.com/taariq_noor)
+
 ### Cedric Poilly (cedpoilly)
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
+
+## Tatiana Eclair
+- [GitHub](github.com/TatianaRE34)
 
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
@@ -58,3 +70,19 @@ Add your name & social network links to this repository!
 ### Anshruta D Jahal (AnshrutaOfficial)
 - [GitHub](github.com/AnshrutaOfficial)
 - [Twitter](twitter.com/anshruta_official
+
+### Beemal Ramkalawan
+- [GitHub](https://github.com/MindScaper)
+- [Facebook](https://facebook.com/Reox21)
+
+### Lucshika Beedessy
+- [GitHub](github.com/beedessy)
+
+### Hansinee
+- [GitHub](github.com/hansinee)
+ [Instagram](instragram.com/hansinee__)
+
+### Rajneesh Puttyah
+-[GitHub](github.com/wildchild18)
+-[LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
+-[Twitter](https://twitter.com/ashishwildchild)
