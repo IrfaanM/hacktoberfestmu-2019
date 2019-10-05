@@ -49,3 +49,9 @@ Add your name & social network links to this repository!
 
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
+
+
+### Rajneesh Puttyah
+-[GitHub](github.com/wildchild18)
+-[LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
+-[Twitter](https://twitter.com/ashishwildchild)
