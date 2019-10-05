@@ -36,3 +36,7 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/shravandwarka)
 - [Facebook](facebook.com/sudhveer)
 - [Instagram](instragram.com/shravandwarka)
+
+### Taariq Noor Mohamed
+- [GitHub](github.com/TaariqNoor)
+- [Instagram](instagram.com/taariq_noor)
