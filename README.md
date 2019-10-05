@@ -22,24 +22,14 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 
 # Contribute
 Add your name & social network links to this repository!
-### Alec Young Tie Yang
- - [GitHub](https://github.com/Alecyty)
+### John Doe (Example)
+ - [Link 1](www.example.com)
+ - [Link 2](www.example.com) 
+ - [Link 3](www.example.com)
 
 ### Arwin Neil Baichoo
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
-
-### Tasneem Noor Mohamed
-- [GitHub](github.com/tasnoor)
-- [Twitter](twitter.com/patatasneem)
-
-### Veekshit Jangi
-- [GitHub](github.com/varesh007)
-- [Twitter](twitter.com/varesh0071)
-
-### Nythiennzo
-- [GitHub](github.com/Nythiennzo)
-- [Twitter](twitter.com/Nythiennzo)
 
 ### Shravan Dwarka
 - [GitHub](github.com/shravanSD)
@@ -47,9 +37,6 @@ Add your name & social network links to this repository!
 - [Facebook](facebook.com/sudhveer)
 - [Instagram](instragram.com/shravandwarka)
 
-### Cedric Poilly (cedpoilly)
-- [GitHub](github.com/cedpoilly)
-- [Twitter](twitter.com/cedpoilly)
-
-### Tanjana Ramsamy
-- [GitHub](github.com/tanjana013)
+### Hansinee
+- [GitHub](github.com/hansinee)
+ [Instagram](instragram.com/hansinee__)
