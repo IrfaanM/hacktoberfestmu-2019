@@ -22,12 +22,17 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 
 # Contribute
 Add your name & social network links to this repository!
+
 ### Alec Young Tie Yang
  - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
+
+### Tasneem Noor Mohamed
+- [GitHub](github.com/tasnoor)
+- [Twitter](twitter.com/patatasneem)
 
 ### Veekshit Jangi
 - [GitHub](github.com/varesh007)
@@ -47,6 +52,9 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
 
+### Tanjana Ramsamy
+- [GitHub](github.com/tanjana013)
+
 ### Anshruta D Jahal (AnshrutaOfficial)
 - [GitHub](github.com/AnshrutaOfficial)
-- [Twitter](twitter.com/anshruta_official)
+- [Twitter](twitter.com/anshruta_official
