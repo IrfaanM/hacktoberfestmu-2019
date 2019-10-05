@@ -29,6 +29,10 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
 
+### Tasneem Noor Mohamed
+- [GitHub](github.com/tasnoor)
+- [Twitter](twitter.com/patatasneem)
+
 ### Veekshit Jangi
 - [GitHub](github.com/varesh007)
 - [Twitter](twitter.com/varesh0071)
