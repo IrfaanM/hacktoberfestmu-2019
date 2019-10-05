@@ -53,6 +53,10 @@ Add your name & social network links to this repository!
 - [Facebook](facebook.com/sudhveer)
 - [Instagram](instragram.com/shravandwarka)
 
+### Taariq Noor Mohamed
+- [GitHub](github.com/TaariqNoor)
+- [Instagram](instagram.com/taariq_noor)
+
 ### Cedric Poilly (cedpoilly)
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
