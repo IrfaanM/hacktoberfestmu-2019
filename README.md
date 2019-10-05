@@ -69,7 +69,7 @@ Add your name & social network links to this repository!
 
 ### Anshruta D Jahal (AnshrutaOfficial)
 - [GitHub](github.com/AnshrutaOfficial)
-- [Twitter](twitter.com/anshruta_official
+- [Twitter](twitter.com/anshruta_official)
 
 ### Beemal Ramkalawan
 - [GitHub](https://github.com/MindScaper)
@@ -80,9 +80,9 @@ Add your name & social network links to this repository!
 
 ### Hansinee
 - [GitHub](github.com/hansinee)
- [Instagram](instragram.com/hansinee__)
+- [Instagram](instragram.com/hansinee__)
 
 ### Rajneesh Puttyah
--[GitHub](github.com/wildchild18)
--[LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
--[Twitter](https://twitter.com/ashishwildchild)
+- [GitHub](github.com/wildchild18)
+- [LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
+- [Twitter](https://twitter.com/ashishwildchild)
