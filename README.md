@@ -22,7 +22,13 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 
 # Contribute
 Add your name & social network links to this repository!
-### Alec Young Tie Yang
+
+### John Doe (Example)
+ - [Link 1](www.example.com)
+ - [Link 2](www.example.com) 
+ - [Link 3](www.example.com)
+ 
+ ### Alec Young Tie Yang
  - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
@@ -54,6 +60,9 @@ Add your name & social network links to this repository!
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
 
+### Hansinee
+- [GitHub](github.com/hansinee)
+ [Instagram](instragram.com/hansinee__)
 
 ### Rajneesh Puttyah
 -[GitHub](github.com/wildchild18)
