@@ -61,6 +61,9 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
 
+## Tatiana Eclair
+- [GitHub](github.com/TatianaRE34)
+
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
 
