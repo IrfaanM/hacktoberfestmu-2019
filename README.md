@@ -46,3 +46,6 @@ Add your name & social network links to this repository!
 ### Cedric Poilly (cedpoilly)
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
+
+### Tanjana Ramsamy
+- [GitHub](github.com/tanjana013)
