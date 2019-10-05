@@ -23,7 +23,7 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 # Contribute
 Add your name & social network links to this repository!
 ### Alec Young Tie Yang
- - [GitHub] (https://github.com/Alecyty)
+ - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
 - [GitHub](github.com/arwinneil)
