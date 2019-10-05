@@ -49,3 +49,6 @@ Add your name & social network links to this repository!
 
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
+
+### Lucshika Beedessy
+- [GitHub](github.com/beedessy)
