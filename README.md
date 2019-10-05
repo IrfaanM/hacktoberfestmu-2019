@@ -47,5 +47,6 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/cedpoilly)
 - [Twitter](twitter.com/cedpoilly)
 
-### Tanjana Ramsamy
-- [GitHub](github.com/tanjana013)
+### Beemal Ramkalawan
+- [GitHub](https://github.com/MindScaper)
+- [Facebook](https://facebook.com/Reox21)
