@@ -86,3 +86,9 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/wildchild18)
 - [LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
 - [Twitter](https://twitter.com/ashishwildchild)
+
+### Irfaan Mahomodally
+- [GitHub](github.com/IrfaanM)
+- [LinkedIn](https://www.linkedin.com/in/irfaan-mahomodally-151b2a183/)
+- [Twitter](https://twitter.com/irfaan468)
+- [Facebook](https://www.facebook.com/profile.php?id=100004655946017)
