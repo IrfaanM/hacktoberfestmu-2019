@@ -30,3 +30,6 @@ Add your name & social network links to this repository!
 ### Arwin Neil Baichoo
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
+
+### Irfaan Mahomodally
+- [GitHub](https://github.com/IrfaanM)
